@@ -107,7 +107,7 @@
 * 207 S2000
 * `Released` 208 Rally4
 * 208 T16 R5
-* 306 II Maxi
+* `Released` 306 II Maxi
 * 307 WRC
 * 309 II GTI16
 
@@ -145,7 +145,7 @@
 ### SUBARU:
 * Impreza S12 WRC
 * Impreza S14 WRC
-* Impreza S3
+* `Released` Impreza S3
 * Impreza S5 WRC - 22B
 * Impreza S7 WRC - 44s
 * Impreza S9 WRC
