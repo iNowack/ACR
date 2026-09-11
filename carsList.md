@@ -8,6 +8,11 @@
 
 ----
 
+### AUDI:
+* Quattro Gr.4
+
+----
+
 ### CITROEN:
 * Xsara WRC
 
@@ -38,6 +43,7 @@
 ----
 
 ### PEUGEOT:
+* 206 WRC
 * 208 Rally4
 * 306 II Maxi
 
@@ -50,3 +56,9 @@
 
 ### SUBARU:
 * Impreza S3
+
+----
+
+### VOLKSWAGEN:
+* Polo GTI R5
+* 

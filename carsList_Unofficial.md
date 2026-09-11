@@ -12,7 +12,7 @@
 ### AUDI:
 * Audi 200 C3
 * Quattro A2
-* Quattro Gr.4
+* `Released` Quattro Gr.4
 * Sport Quattro S1
 * Sport Quattro S1 E2
 * Sport Quattro S1 E2 Pikes Peak
@@ -129,7 +129,7 @@
 * 205 1.9 GTI Gr.A
 * 205 T16 Evo2
 * 206 S1600
-* 206 WRC
+* `Released` 206 WRC
 * 207 S2000
 * `Released` 208 Rally4
 * 208 T16 R5
@@ -217,5 +217,5 @@
 
 ### VOLKSWAGEN:
 * Golf MKII GTI 16V
-* Polo GTI R5
+* `Released` Polo GTI R5
 * Polo R WRC
