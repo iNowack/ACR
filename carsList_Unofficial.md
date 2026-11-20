@@ -84,8 +84,8 @@
 * Delta ECV
 * Delta ECV2
 * `Released` Delta Integrale Evoluzione
-* Delta S4
-* Delta S4 EVO 2 Italtecnica
+* `Released` Delta S4
+* `Released` Delta S4 EVO 2 Italtecnica
 * `Released` Fulvia HF
 * `Released` Rally 037 Evoluzione 2
 * `Released` Stratos HF

@@ -31,6 +31,8 @@
 
 ### LANCIA:
 * Delta Integrale Evoluzione
+* Delta S4
+* Delta S4 EVO 2 Italtecnica
 * Fulvia HF
 * Rally 037 Evoluzione 2
 * Stratos HF
